@@ -41,6 +41,3 @@ const Maly = 24;
 console.log('Maly');
 
 
-function(a, b) {
-	return a + b;
-};
